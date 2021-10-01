@@ -1,0 +1,10 @@
+string pizza = "pizza";
+string topping = "Pineapple";
+
+if (Pizza < topping)
+    Controle.WriteLine("No")
+    
+else:
+    Controle.WriteLine("Good")
+    
+//this code does not work, its just to prove a point
